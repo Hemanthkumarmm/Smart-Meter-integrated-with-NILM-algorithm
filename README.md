@@ -38,7 +38,7 @@ NILM Model Device Event Analytics
 The following charts illustrate the output graphs generated from the NILM model, tracing total current consumption changes and identifying exact appliance event states (ON/OFF transients):
 ---
 <p align="center">
-  <img src="NILM output1" alt="NILM Model Output Graphs" width="700">
+  <img src="NILM output_1" alt="NILM Model Output Graphs" width="700">
 </p>
 
 ---
